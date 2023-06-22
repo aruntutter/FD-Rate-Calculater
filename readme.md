@@ -1,4 +1,4 @@
-# FD Rate Calculator
+# FD Rate Calculator %
 
 ## Table of contents
 
@@ -20,9 +20,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [here]()
-- Live Site URL: [here]()
-- Live Site URL: [here]()
+- Solution URL: [here](https://github.com/aruntutter/FD-Rate-Calculater)
+- Live Site URL: [here](https://nimble-salamander-6d3c84.netlify.app)
 
 ## My process
 
