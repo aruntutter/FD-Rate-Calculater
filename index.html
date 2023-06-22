@@ -20,6 +20,33 @@
 </head>
 
 <body>
+  <div class="container">
+    <div class="title">
+      <h2>FD Rate Calculator</h2>
+    </div>
+
+    <div class="image">
+      <img src="./assets/images/money-bag.png" alt="rate-image">
+    </div>
+    <!-- USER INPUT -->
+    <div class="input-container">
+      <input class="user-input" type="text" id="input" placeholder="Tenure Months">
+      <!-- USER INPUT -->
+
+      <!-- BUTTON -->
+      <button class="btn" type="submit" onclick="fdRate()"> Calculate</button>
+      <!-- BUTTON -->
+
+      <div class="result">
+        <!-- RESULT -->
+        <div id="result" class="calculated-result">
+          <h3></h3>
+        </div>
+        <!-- RESULT -->
+        <img class="image-hand" src="./assets/images/hand.png" alt="">
+      </div>
+    </div>
+  </div>
 
   <script src="./srcipt.js"></script>
 </body>
